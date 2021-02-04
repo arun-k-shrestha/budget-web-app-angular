@@ -1,3 +1,5 @@
+## This project was created with a goal of learning angular and was able to complete with the help from a youtube video from Devstackr.
+
 # BudgetApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
