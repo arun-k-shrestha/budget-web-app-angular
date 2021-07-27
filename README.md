@@ -6,7 +6,7 @@ Budget App is a web application that lets you track your income and expeses. Thi
 
 Clone this repository to your local machine: 
 
-  > Run `git clone https://github.com/arun-k-shrestha/budget-app-angular.git`
+  > Run `git clone https://github.com/arun-k-shrestha/budget-web-app-angular.git`
 
 ## Building and Running Locally 
 
